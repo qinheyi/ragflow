@@ -44,31 +44,6 @@
 
 [RAGFlow](https://ragflow.io/) 是一款基于深度文档理解构建的开源 RAG（Retrieval-Augmented Generation）引擎。RAGFlow 可以为各种规模的企业及个人提供一套精简的 RAG 工作流程，结合大语言模型（LLM）针对用户各类不同的复杂格式数据提供可靠的问答以及有理有据的引用。
 
-## 🎮 Demo 试用
-
-请登录网址 [https://demo.ragflow.io](https://demo.ragflow.io) 试用 demo。
-
-<div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/infiniflow/ragflow/assets/7248/2f6baa3e-1092-4f11-866d-36f6a9d075e5" width="1200"/>
-<img src="https://github.com/user-attachments/assets/504bbbf1-c9f7-4d83-8cc5-e9cb63c26db6" width="1200"/>
-</div>
-
-## 🔥 近期更新
-
-- 2025-03-19 PDF和DOCX中的图支持用多模态大模型去解析得到描述.
-- 2025-02-28 结合互联网搜索（Tavily），对于任意大模型实现类似 Deep Research 的推理功能.
-- 2025-01-26 优化知识图谱的提取和应用，提供了多种配置选择。
-- 2024-12-18 升级了 DeepDoc 的文档布局分析模型。
-- 2024-11-01 对解析后的 chunk 加入关键词抽取和相关问题生成以提高召回的准确度。
-- 2024-08-22 支持用 RAG 技术实现从自然语言到 SQL 语句的转换。
-
-## 🎉 关注项目
-
-⭐️ 点击右上角的 Star 关注 RAGFlow，可以获取最新发布的实时通知 !🌟
-
-<div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/user-attachments/assets/18c9707e-b8aa-4caf-a154-037089c105ba" width="1200"/>
-</div>
 
 ## 🌟 主要功能
 
